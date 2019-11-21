@@ -3,6 +3,7 @@ package dynamicproxy;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
+//123
 public class DynamicSubject implements InvocationHandler {
 
 	private Object sub;
